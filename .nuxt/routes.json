@@ -1,0 +1,604 @@
+[
+  {
+    "name": "about-us-01",
+    "path": "/about-us-01",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/about-us-01.vue",
+    "chunkName": "pages/about-us-01",
+    "_name": "_c0133ebe"
+  },
+  {
+    "name": "about-us-02",
+    "path": "/about-us-02",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/about-us-02.vue",
+    "chunkName": "pages/about-us-02",
+    "_name": "_bff70fbc"
+  },
+  {
+    "name": "about-us-03",
+    "path": "/about-us-03",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/about-us-03.vue",
+    "chunkName": "pages/about-us-03",
+    "_name": "_bfdae0ba"
+  },
+  {
+    "name": "career",
+    "path": "/career",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/career.vue",
+    "chunkName": "pages/career",
+    "_name": "_a9521a86"
+  },
+  {
+    "name": "contact-us-modern",
+    "path": "/contact-us-modern",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/contact-us-modern.vue",
+    "chunkName": "pages/contact-us-modern",
+    "_name": "_68025bd2"
+  },
+  {
+    "name": "contact-us-with-map",
+    "path": "/contact-us-with-map",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/contact-us-with-map.vue",
+    "chunkName": "pages/contact-us-with-map",
+    "_name": "_63cea2c8"
+  },
+  {
+    "name": "home-authentic-studio",
+    "path": "/home-authentic-studio",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-authentic-studio.vue",
+    "chunkName": "pages/home-authentic-studio",
+    "_name": "_5d5abf76"
+  },
+  {
+    "name": "home-blog-grid",
+    "path": "/home-blog-grid",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-blog-grid.vue",
+    "chunkName": "pages/home-blog-grid",
+    "_name": "_91e50e3c"
+  },
+  {
+    "name": "home-corona",
+    "path": "/home-corona",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-corona.vue",
+    "chunkName": "pages/home-corona",
+    "_name": "_c10c6bca"
+  },
+  {
+    "name": "home-creative-agency",
+    "path": "/home-creative-agency",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-creative-agency.vue",
+    "chunkName": "pages/home-creative-agency",
+    "_name": "_6768a274"
+  },
+  {
+    "name": "home-creative-portfolio",
+    "path": "/home-creative-portfolio",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-creative-portfolio.vue",
+    "chunkName": "pages/home-creative-portfolio",
+    "_name": "_9dab7bae"
+  },
+  {
+    "name": "home-design-studio",
+    "path": "/home-design-studio",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-design-studio.vue",
+    "chunkName": "pages/home-design-studio",
+    "_name": "_bc09eed4"
+  },
+  {
+    "name": "home-digital-agency",
+    "path": "/home-digital-agency",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-digital-agency.vue",
+    "chunkName": "pages/home-digital-agency",
+    "_name": "_0c928b4e"
+  },
+  {
+    "name": "home-essential",
+    "path": "/home-essential",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-essential.vue",
+    "chunkName": "pages/home-essential",
+    "_name": "_25f3531f"
+  },
+  {
+    "name": "home-foodie",
+    "path": "/home-foodie",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-foodie.vue",
+    "chunkName": "pages/home-foodie",
+    "_name": "_1303a40e"
+  },
+  {
+    "name": "home-freelancer",
+    "path": "/home-freelancer",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-freelancer.vue",
+    "chunkName": "pages/home-freelancer",
+    "_name": "_c15cc4fc"
+  },
+  {
+    "name": "home-fullscreen-slider-left-vertical-header",
+    "path": "/home-fullscreen-slider-left-vertical-header",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-fullscreen-slider-left-vertical-header.vue",
+    "chunkName": "pages/home-fullscreen-slider-left-vertical-header",
+    "_name": "_f2827352"
+  },
+  {
+    "name": "home-indie-musician",
+    "path": "/home-indie-musician",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-indie-musician.vue",
+    "chunkName": "pages/home-indie-musician",
+    "_name": "_720046e2"
+  },
+  {
+    "name": "home-landing",
+    "path": "/home-landing",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-landing.vue",
+    "chunkName": "pages/home-landing",
+    "_name": "_78b947a8"
+  },
+  {
+    "name": "home-masonry-gallery",
+    "path": "/home-masonry-gallery",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-masonry-gallery.vue",
+    "chunkName": "pages/home-masonry-gallery",
+    "_name": "_6c6e924a"
+  },
+  {
+    "name": "home-minimal-agency",
+    "path": "/home-minimal-agency",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-minimal-agency.vue",
+    "chunkName": "pages/home-minimal-agency",
+    "_name": "_3e7789a0"
+  },
+  {
+    "name": "home-minimal-metro-grid",
+    "path": "/home-minimal-metro-grid",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-minimal-metro-grid.vue",
+    "chunkName": "pages/home-minimal-metro-grid",
+    "_name": "_4966e2a5"
+  },
+  {
+    "name": "home-minimal-portfolio",
+    "path": "/home-minimal-portfolio",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-minimal-portfolio.vue",
+    "chunkName": "pages/home-minimal-portfolio",
+    "_name": "_3b5d1fed"
+  },
+  {
+    "name": "home-photo-slider-gallery",
+    "path": "/home-photo-slider-gallery",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-photo-slider-gallery.vue",
+    "chunkName": "pages/home-photo-slider-gallery",
+    "_name": "_4c7960c0"
+  },
+  {
+    "name": "home-portfolio-slide",
+    "path": "/home-portfolio-slide",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-portfolio-slide.vue",
+    "chunkName": "pages/home-portfolio-slide",
+    "_name": "_172d52fd"
+  },
+  {
+    "name": "home-presentation",
+    "path": "/home-presentation",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-presentation.vue",
+    "chunkName": "pages/home-presentation",
+    "_name": "_7fa279d9"
+  },
+  {
+    "name": "home-product-landing",
+    "path": "/home-product-landing",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-product-landing.vue",
+    "chunkName": "pages/home-product-landing",
+    "_name": "_7abcaeca"
+  },
+  {
+    "name": "home-restaurant",
+    "path": "/home-restaurant",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-restaurant.vue",
+    "chunkName": "pages/home-restaurant",
+    "_name": "_cce3cb88"
+  },
+  {
+    "name": "home-service",
+    "path": "/home-service",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-service.vue",
+    "chunkName": "pages/home-service",
+    "_name": "_2fb55574"
+  },
+  {
+    "name": "home-start-up",
+    "path": "/home-start-up",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-start-up.vue",
+    "chunkName": "pages/home-start-up",
+    "_name": "_8e363fb6"
+  },
+  {
+    "name": "home-type-hover",
+    "path": "/home-type-hover",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-type-hover.vue",
+    "chunkName": "pages/home-type-hover",
+    "_name": "_186db1e8"
+  },
+  {
+    "name": "home-vertical-menu",
+    "path": "/home-vertical-menu",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/home-vertical-menu.vue",
+    "chunkName": "pages/home-vertical-menu",
+    "_name": "_bda43eb2"
+  },
+  {
+    "name": "HomeBusiness",
+    "path": "/HomeBusiness",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/HomeBusiness.vue",
+    "chunkName": "pages/HomeBusiness",
+    "_name": "_9f5b5144"
+  },
+  {
+    "name": "pricing-plans",
+    "path": "/pricing-plans",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/pricing-plans.vue",
+    "chunkName": "pages/pricing-plans",
+    "_name": "_d640ed98"
+  },
+  {
+    "name": "pricing-plans-02",
+    "path": "/pricing-plans-02",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/pricing-plans-02.vue",
+    "chunkName": "pages/pricing-plans-02",
+    "_name": "_4e02b42a"
+  },
+  {
+    "name": "services-classic",
+    "path": "/services-classic",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/services-classic.vue",
+    "chunkName": "pages/services-classic",
+    "_name": "_2eb4da22"
+  },
+  {
+    "name": "services-list",
+    "path": "/services-list",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/services-list.vue",
+    "chunkName": "pages/services-list",
+    "_name": "_2e2a1f3e"
+  },
+  {
+    "name": "services-modern",
+    "path": "/services-modern",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/services-modern.vue",
+    "chunkName": "pages/services-modern",
+    "_name": "_0465e182"
+  },
+  {
+    "name": "team-carousel-01",
+    "path": "/team-carousel-01",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/team-carousel-01.vue",
+    "chunkName": "pages/team-carousel-01",
+    "_name": "_c1510ec6"
+  },
+  {
+    "name": "team-carousel-02",
+    "path": "/team-carousel-02",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/team-carousel-02.vue",
+    "chunkName": "pages/team-carousel-02",
+    "_name": "_c134dfc4"
+  },
+  {
+    "name": "team-grid",
+    "path": "/team-grid",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/team-grid.vue",
+    "chunkName": "pages/team-grid",
+    "_name": "_7fb7b172"
+  },
+  {
+    "name": "blog-blog-creative",
+    "path": "/blog/blog-creative",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/blog/blog-creative.vue",
+    "chunkName": "pages/blog/blog-creative",
+    "_name": "_787759e8"
+  },
+  {
+    "name": "blog-blog-details",
+    "path": "/blog/blog-details",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/blog/blog-details.vue",
+    "chunkName": "pages/blog/blog-details",
+    "_name": "_26711216"
+  },
+  {
+    "name": "blog-blog-details-modern-layout",
+    "path": "/blog/blog-details-modern-layout",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/blog/blog-details-modern-layout.vue",
+    "chunkName": "pages/blog/blog-details-modern-layout",
+    "_name": "_4a5a4d40"
+  },
+  {
+    "name": "blog-blog-grid-classic",
+    "path": "/blog/blog-grid-classic",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/blog/blog-grid-classic.vue",
+    "chunkName": "pages/blog/blog-grid-classic",
+    "_name": "_7e412be8"
+  },
+  {
+    "name": "blog-blog-grid-classic-sidebar",
+    "path": "/blog/blog-grid-classic-sidebar",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/blog/blog-grid-classic-sidebar.vue",
+    "chunkName": "pages/blog/blog-grid-classic-sidebar",
+    "_name": "_b89c2a12"
+  },
+  {
+    "name": "blog-blog-grid-mesonry",
+    "path": "/blog/blog-grid-mesonry",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/blog/blog-grid-mesonry.vue",
+    "chunkName": "pages/blog/blog-grid-mesonry",
+    "_name": "_768ba497"
+  },
+  {
+    "name": "blog-blog-grid-minimal",
+    "path": "/blog/blog-grid-minimal",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/blog/blog-grid-minimal.vue",
+    "chunkName": "pages/blog/blog-grid-minimal",
+    "_name": "_bf173d12"
+  },
+  {
+    "name": "blog-blog-grid-minimal-outline",
+    "path": "/blog/blog-grid-minimal-outline",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/blog/blog-grid-minimal-outline.vue",
+    "chunkName": "pages/blog/blog-grid-minimal-outline",
+    "_name": "_b9a98928"
+  },
+  {
+    "name": "blog-blog-grid-modern",
+    "path": "/blog/blog-grid-modern",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/blog/blog-grid-modern.vue",
+    "chunkName": "pages/blog/blog-grid-modern",
+    "_name": "_3a2c6cb9"
+  },
+  {
+    "name": "blog-blog-grid-simple",
+    "path": "/blog/blog-grid-simple",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/blog/blog-grid-simple.vue",
+    "chunkName": "pages/blog/blog-grid-simple",
+    "_name": "_5c5db1cc"
+  },
+  {
+    "name": "blog-blog-grid-standard",
+    "path": "/blog/blog-grid-standard",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/blog/blog-grid-standard.vue",
+    "chunkName": "pages/blog/blog-grid-standard",
+    "_name": "_3448ee52"
+  },
+  {
+    "name": "blog-blog-standard-list",
+    "path": "/blog/blog-standard-list",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/blog/blog-standard-list.vue",
+    "chunkName": "pages/blog/blog-standard-list",
+    "_name": "_1ef15021"
+  },
+  {
+    "name": "element-accordion",
+    "path": "/element/accordion",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/element/accordion.vue",
+    "chunkName": "pages/element/accordion",
+    "_name": "_b485aff4"
+  },
+  {
+    "name": "element-brand-logo",
+    "path": "/element/brand-logo",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/element/brand-logo.vue",
+    "chunkName": "pages/element/brand-logo",
+    "_name": "_4197dae3"
+  },
+  {
+    "name": "element-call-to-action-banner",
+    "path": "/element/call-to-action-banner",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/element/call-to-action-banner.vue",
+    "chunkName": "pages/element/call-to-action-banner",
+    "_name": "_32b1101e"
+  },
+  {
+    "name": "element-carousel-slider",
+    "path": "/element/carousel-slider",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/element/carousel-slider.vue",
+    "chunkName": "pages/element/carousel-slider",
+    "_name": "_04ecbda8"
+  },
+  {
+    "name": "element-contact-subscribe",
+    "path": "/element/contact-subscribe",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/element/contact-subscribe.vue",
+    "chunkName": "pages/element/contact-subscribe",
+    "_name": "_f90e73ca"
+  },
+  {
+    "name": "element-dividers",
+    "path": "/element/dividers",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/element/dividers.vue",
+    "chunkName": "pages/element/dividers",
+    "_name": "_1f12f5a8"
+  },
+  {
+    "name": "element-flexible-image-slider",
+    "path": "/element/flexible-image-slider",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/element/flexible-image-slider.vue",
+    "chunkName": "pages/element/flexible-image-slider",
+    "_name": "_44b16b93"
+  },
+  {
+    "name": "element-gradation",
+    "path": "/element/gradation",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/element/gradation.vue",
+    "chunkName": "pages/element/gradation",
+    "_name": "_a663a6b6"
+  },
+  {
+    "name": "element-icon-boxes",
+    "path": "/element/icon-boxes",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/element/icon-boxes.vue",
+    "chunkName": "pages/element/icon-boxes",
+    "_name": "_279ffe17"
+  },
+  {
+    "name": "element-instagram",
+    "path": "/element/instagram",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/element/instagram.vue",
+    "chunkName": "pages/element/instagram",
+    "_name": "_b51fb520"
+  },
+  {
+    "name": "element-lists",
+    "path": "/element/lists",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/element/lists.vue",
+    "chunkName": "pages/element/lists",
+    "_name": "_373fdad3"
+  },
+  {
+    "name": "element-message-box",
+    "path": "/element/message-box",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/element/message-box.vue",
+    "chunkName": "pages/element/message-box",
+    "_name": "_00b861c3"
+  },
+  {
+    "name": "element-pricing-box",
+    "path": "/element/pricing-box",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/element/pricing-box.vue",
+    "chunkName": "pages/element/pricing-box",
+    "_name": "_3805d282"
+  },
+  {
+    "name": "element-tab",
+    "path": "/element/tab",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/element/tab.vue",
+    "chunkName": "pages/element/tab",
+    "_name": "_6eb7c853"
+  },
+  {
+    "name": "element-team",
+    "path": "/element/team",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/element/team.vue",
+    "chunkName": "pages/element/team",
+    "_name": "_3d7c6a8f"
+  },
+  {
+    "name": "element-testimonial",
+    "path": "/element/testimonial",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/element/testimonial.vue",
+    "chunkName": "pages/element/testimonial",
+    "_name": "_62df925d"
+  },
+  {
+    "name": "portfolio-portfolio-ajax-filter",
+    "path": "/portfolio/portfolio-ajax-filter",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/portfolio/portfolio-ajax-filter.vue",
+    "chunkName": "pages/portfolio/portfolio-ajax-filter",
+    "_name": "_05f44d8a"
+  },
+  {
+    "name": "portfolio-portfolio-details",
+    "path": "/portfolio/portfolio-details",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/portfolio/portfolio-details.vue",
+    "chunkName": "pages/portfolio/portfolio-details",
+    "_name": "_ed1e8ff2"
+  },
+  {
+    "name": "portfolio-portfolio-details-image-with-caption",
+    "path": "/portfolio/portfolio-details-image-with-caption",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/portfolio/portfolio-details-image-with-caption.vue",
+    "chunkName": "pages/portfolio/portfolio-details-image-with-caption",
+    "_name": "_78b94fc7"
+  },
+  {
+    "name": "portfolio-portfolio-details-left-wide",
+    "path": "/portfolio/portfolio-details-left-wide",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/portfolio/portfolio-details-left-wide.vue",
+    "chunkName": "pages/portfolio/portfolio-details-left-wide",
+    "_name": "_44ad7293"
+  },
+  {
+    "name": "portfolio-portfolio-details-right",
+    "path": "/portfolio/portfolio-details-right",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/portfolio/portfolio-details-right.vue",
+    "chunkName": "pages/portfolio/portfolio-details-right",
+    "_name": "_bfb24154"
+  },
+  {
+    "name": "portfolio-portfolio-details-right-wide",
+    "path": "/portfolio/portfolio-details-right-wide",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/portfolio/portfolio-details-right-wide.vue",
+    "chunkName": "pages/portfolio/portfolio-details-right-wide",
+    "_name": "_005f45cc"
+  },
+  {
+    "name": "portfolio-portfolio-grid-boxed",
+    "path": "/portfolio/portfolio-grid-boxed",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/portfolio/portfolio-grid-boxed.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-boxed",
+    "_name": "_7cbedfa4"
+  },
+  {
+    "name": "portfolio-portfolio-grid-filter",
+    "path": "/portfolio/portfolio-grid-filter",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/portfolio/portfolio-grid-filter.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-filter",
+    "_name": "_0a3e60a4"
+  },
+  {
+    "name": "portfolio-portfolio-grid-metro-01",
+    "path": "/portfolio/portfolio-grid-metro-01",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/portfolio/portfolio-grid-metro-01.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-metro-01",
+    "_name": "_c7214e3e"
+  },
+  {
+    "name": "portfolio-portfolio-grid-metro-02",
+    "path": "/portfolio/portfolio-grid-metro-02",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/portfolio/portfolio-grid-metro-02.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-metro-02",
+    "_name": "_c7051f3c"
+  },
+  {
+    "name": "portfolio-portfolio-grid-wide",
+    "path": "/portfolio/portfolio-grid-wide",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/portfolio/portfolio-grid-wide.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-wide",
+    "_name": "_d1169902"
+  },
+  {
+    "name": "portfolio-portfolio-with-caption",
+    "path": "/portfolio/portfolio-with-caption",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/portfolio/portfolio-with-caption.vue",
+    "chunkName": "pages/portfolio/portfolio-with-caption",
+    "_name": "_5e8042ea"
+  },
+  {
+    "name": "blog-category-slug",
+    "path": "/blog/category/:slug?",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/blog/category/_slug.vue",
+    "chunkName": "pages/blog/category/_slug",
+    "_name": "_22cfaed2"
+  },
+  {
+    "name": "blog-tag-slug",
+    "path": "/blog/tag/:slug?",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/blog/tag/_slug.vue",
+    "chunkName": "pages/blog/tag/_slug",
+    "_name": "_68c38de7"
+  },
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug?",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/blog/_slug.vue",
+    "chunkName": "pages/blog/_slug",
+    "_name": "_43c0cf1c"
+  },
+  {
+    "name": "portfolio-slug",
+    "path": "/portfolio/:slug?",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/portfolio/_slug.vue",
+    "chunkName": "pages/portfolio/_slug",
+    "_name": "_7a185558"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/ugovarlet/Downloads/theme/brook/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1bb5e9e3"
+  }
+]
