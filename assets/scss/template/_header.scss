@@ -251,11 +251,11 @@ header.br_header.header-default.vertical-slide-portfolio {
                         max-width: 100%;
                         
                         @media #{$lg-layout} {
-                            width: 140px !important;
+                            height: 70px !important;
                         }
                         
                         @media #{$sm-layout} {
-                            width: 110px !important;
+                            height: 60px !important;
                         }
                     }
                 }
@@ -472,7 +472,7 @@ header.br_header.header-default.vertical-slide-portfolio {
 ===========================*/
 
 .header-left--align.header-default .header__wrapper .header-left .logo a img {
-    width: auto !important;
+    height: 60px !important;
 }
 
 .header-left--align.header-default .header__wrapper .header-left {
