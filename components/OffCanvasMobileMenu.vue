@@ -5,7 +5,7 @@
             <div class="mobileheader">
                 <div class="logo">
                     <n-link to="/">
-                        <img src="/img/logo/brook-black.png" alt="brand logo">
+                        <img src="/img/logo/logo.png" alt="brand logo">
                     </n-link>
                 </div>
                 <button class="mobile-close" @click="$emit('togglenav')"></button>
